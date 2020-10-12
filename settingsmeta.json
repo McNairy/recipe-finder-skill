@@ -1,0 +1,24 @@
+{
+	"name": "Recipe Finder",
+	"skillmetadata": {
+		"sections": [
+			{
+				"name": "Configuration",
+				"fields": [
+					{
+						"name": "elasticsource",
+						"type": "text",
+						"label": "URL for Elasticsearch",
+						"placeholder": "http://localhost:9200"
+					},
+					{
+						"name": "size",
+						"type": "number",
+						"label": "Maximum number of results (default is 1)",
+						"placeholder": "3"
+					}
+				]
+			}
+		]
+	}
+}

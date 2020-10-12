@@ -1,0 +1,4 @@
+{
+    "intent_type": "recipe.finder.intent",
+    "utterance": "find recipe"
+}
